@@ -9,4 +9,5 @@ potential use:
 - quantiffication of literature meta data
 - visualization/quantification for orientation and structuring of the research process.
 
+For more documentation see http://www.timodamm.rf.gd/index.php/project/literature-networks/?i=1
 In case of questions: timo.damm.bs@icloud.com
