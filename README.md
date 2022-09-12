@@ -9,4 +9,4 @@ potential use:
 - quantiffication of literature meta data
 - visualization/quantification for orientation and structuring of the research process.
 
-In case of questions: copperring@protonmail.com
+In case of questions: timo.damm.bs@icloud.com
