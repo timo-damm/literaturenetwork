@@ -1,10 +1,9 @@
 #==== visualizing citations=====
 #----packages-----
-install.packages("bib2df")
-install.packages("igraph")
-install.packages("network")
-install.packages("sna")
-install.packages("ggraph")
+list.of.packages <- c("bib2df", "dplyr", "ggplot2", "tidyr" , "network", "sna",
+                      "igraph", "ggraph")
+new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
+if(length(new.packages)) install.packages(new.packages)
 
 library("bib2df")
 library("dplyr")
